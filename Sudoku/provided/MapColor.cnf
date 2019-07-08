@@ -1,0 +1,46 @@
+WAr WAg WAb
+-WAr -WAg
+-WAr -WAb
+-WAg -WAb
+NTr NTg NTb
+-NTr -NTg
+-NTr -NTb
+-NTg -NTb
+SAr SAg SAb
+-SAr -SAg
+-SAr -SAb
+-SAg -SAb
+Qr Qg Qb
+-Qr -Qg
+-Qr -Qb
+-Qg -Qb
+NSWr NSWg NSWb
+-NSWr -NSWg
+-NSWr -NSWb
+-NSWg -NSWb
+Vr Vg Vb
+-Vr -Vg
+-Vr -Vb
+-Vg -Vb
+Tr Tg Tb
+-Tr -Tg
+-Tr -Tb
+-Tg -Tb
+SAr WAr NTr Qr NSWr Vr
+SAg WAg NTg Qg NSWg Vg
+SAb WAb NTb Qb NSWb Vb
+WAr SAr NTr
+WAg SAg NTg
+WAb SAb NTb
+NTr WAr SAr Qr
+NTb WAb SAb Qb
+NTg WAg SAg Qg
+Qr NTr SAr NSWr
+Qg NTg SAg NSWg
+Qb NTb SAb NSWb
+NSWr Qr SAr Vr
+NSWg Qg SAg Vg
+NSWb Qb SAb Vb
+Vr SAr NSWr
+Vg SAg NSWg
+Vb SAb NSWb
